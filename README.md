@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 # hw-f23-kielsample
 =======
 # hw-f23-kielsample
