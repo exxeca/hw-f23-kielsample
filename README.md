@@ -24,4 +24,4 @@ This repo is practicing the first homework assignment.
 
 
 ![DescribingThis](images/tele.jpg)
->>>>>>> Stashed changes
+
